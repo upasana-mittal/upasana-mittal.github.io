@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Upasana
+title: Data Scientist
+email: upu1994@gmail.com
+website: www.github.com/upasana-mittal
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
+#twitter_username: facespics
+github_username:  upasana-mittal
+stackoverflow_username: "10062944"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: upasana-mittal-b46278160
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,71 +46,135 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/PXL_20230314_154948594~2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Experienced Data Scientist with 6+ years of a proven track record of transforming data into actionable insights.
+  
+  I am most skilled in: <mark>Machine Learning</mark>, <mark>Deep Learning</mark>, <mark>Python</mark>, <mark>AWS</mark>, <mark>GCP</mark>
+  
+  Experience working in healthcare domain, financial returns, customer centric solutions and platforms.
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
+#          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#          #   icon: fab fa-github
+#          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: IrisCX
+        link: iriscx.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Lead Data Scientist
+        caption: July 2021 - September 2023
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Evolving Customer Experiences
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Customer experiences are ubiquitous due to the existence of various issues. The distinguishing factor lies in the alignment of some companies with their customers, comprehending their pain points, while others remain disconnected. IrisCX assists businesses in cultivating robust relationships with their customers by comprehending their needs and requests. This is where my contribution comes into play.
+          
+            I developed a backend system utilizing Python and MongoDB, which is enhanced with Machine Learning and Deep Learning capabilities. This system is designed to handle Automatic Speech Recognized Transcripts and extract valuable insights, including Named Entities, Topics, and Keyphrases. This powerful NLP engine has the capability to generate summaries of meetings, extract actionable information, and predict sentiment and emotional scores.          
+            
+            Additionally, it evaluates support conversations by calculating the First Call Resolution score with accuracy rate of 89% and assesses sales conversations by predicting CSAT, Intent to Buy score, and the Customer Buyer Journey stage with accuracy score of 82%, 87% and 92% respectively.
+            
+            I started working remotely for them from India in July 2021 and then started as a full time employee from March 2023 after I went to Canada.
+      - layout: left
+        title: Carvia Technologies
+        link: carvia.tech
+        sub_title: Data Scientist
+        caption: Feb 2020 - July 2021
+        quote: >
+          Ideas are easy. Implementation is hard!
+        description: | # this will include new lines to allow paragraphs
+          I co-founded a startup in very early 2020 to launch an idea behind local markets in India. I worked as a Product Owner, Front End Developer, DevOps, QA and hawker. Idea failed because of lack of experience in sales and marketing.
+          
+          Parallely, I worked as a freelance data scientist. 
+          
+          Built a machine learning and NLP based engine for a real estate platform with following features:
+          - Days on market prediction for real estate listings to provide better visibility on trending properties to real estate agents 
+          - Residential property price prediction for listings to help agents evaluate and assess a given property for its real market value 
+          - Object detection from listing images to score them based on their usability • Listing description suggestion to help customers put right sentences for their listings 
+          - NER to convert raw search queries into structured query and provide better search experience to end customer 
+          - Image sorting based on features of images for a given listing
+          
+          Developed few services for organizations in healthcare and consulting group
+          - Data lake pipeline using Python, AWS Athena & Glue for parsing healthcare claims from DPC CMS.
+          - Healthcare Claim analysis to help providers visualize 360 degree view of a given patient claims
+          - Recognition & redaction of PHI attributes from a large dataset using Amazon Comprehend Medical
+          - Claim and remit data extraction from PDFs using Python, Apache Tikka and NLP(Natural Language Processing) based post processing on data to extract key metrics.
+          - Built graph based relations between metrics extracted from claim and remit with Neo4j.
+          - Finding similar questions from question bank using entity extraction from text and Google BERT’s transformed vector semantic search methods.
+          - Detecting entity of answers of the questions using Google BERT
+          - Built event architecture based Customer lead reports analysis solution for sales team with AWS Lambda & DynamoDB.
+
+      - layout: left
+        title: Roundglass
+        link: round.glass
+        sub_title: NLP Engineer
+        caption: May 2018 - February 2020
+        description: | # this will include new lines to allow paragraphs
+          Built various machine learning services for B2C applications highlighting user feed recommendation, content recommendation engine alongside BI dashboards to analyze content analytics, in house platform usage & expenditure analytics
+
+      - layout: left
+        title: Xenonstack
+        sub_title: Machine Learning Engineer
+        caption: August 2017 - March 2018
+        description: | # this will include new lines to allow paragraphs
+          Developed various predictive models along with BI dashboards. Few highlights can be financial return forecasting model with 100+ features, computer vision model to recognize face, detect age, gender, emotions and image forgery detection.
+
+      - layout: left
+        title: Kryptoblocks
+        sub_title: AI Intern
+        caption: June 2017 - July 2017
+        description: | # this will include new lines to allow paragraphs
+          Developed a facial recognition model in alongside a drowsy eyes detection model to enhance driver safety in vehicles.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Aegis School of Business, Mumbai
+        caption: 2016 - 2017
+        sub_title: Post Graduate Diploma in Data Science (in association with IBM)
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time in Aegis, I learned a lot on:
+          - Coding in R & Python
+          - Data Analysis
+          - Machine Learning
+          - Big Data
+          This course helped in bridging the gap between linear algebra and machine learning.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Panjab University
+        caption: 2014 - 2016
+        sub_title: MSc. Mathematics
+        description: | # this will include new lines to allow paragraphs
+          During my masters, I learned a lot of different dimensions of mathematics. My favourites were Linear Algebra, Complex analysis and Numerical analysis.
+
+      
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in data science, some of my other interests and hobbies are:
+      - Trekking
+      - Reading ([goodreads](https://www.goodreads.com/upasana94))
+      - Writing (still learning!! [Medium](https://www.medium.com/@upu1994) and contributed ML articles at [Personal Blog site](https://www.javacodemonk.com))
+      - Watercolor painting 
 
 # Footer
 footer_show_references: true
