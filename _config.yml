@@ -85,8 +85,8 @@ content:
         quote: >
           Evolving Customer Experiences
         description: | # this will include new lines to allow paragraphs
-            Customer experiences are ubiquitous due to the existence of various issues. The distinguishing factor lies in the alignment of some companies with their customers, comprehending their pain points, while others remain disconnected. IrisCX assists businesses in cultivating robust relationships with their customers by comprehending their needs and requests. This is where my contribution comes into play.
-          
+            Many companies face customer problems. Some companies understand and connect with their customers, while others don't. IrisCX helps businesses build strong customer relationships by understanding their needs.
+                      
             I developed a backend system utilizing Python and MongoDB, which is enhanced with Machine Learning and Deep Learning capabilities. This system is designed to handle Automatic Speech Recognized Transcripts and extract valuable insights, including Named Entities, Topics, and Keyphrases. This powerful NLP engine has the capability to generate summaries of meetings, extract actionable information, and predict sentiment and emotional scores.          
             
             Additionally, it evaluates support conversations by calculating the First Call Resolution score with accuracy rate of 89% and assesses sales conversations by predicting CSAT, Intent to Buy score, and the Customer Buyer Journey stage with accuracy score of 82%, 87% and 92% respectively.
